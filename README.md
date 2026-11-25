@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [The Most Boring Object, Reviewed in One Line](https://make.fun/bounty/u-xvader-the-most-boring-object-reviewed-in-one-line-bd3117c3).
 
-> The beige wall socket: two stars. It has one job, does it silently, and still manages to be the most judgmental thing in the room.
+> The beige wall socket: two stars. One job, done silently, yet somehow still the most judgmental thing in the room.
 
 ## Run
 
